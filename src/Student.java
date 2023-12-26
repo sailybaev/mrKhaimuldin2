@@ -1,4 +1,4 @@
-class Student extends Person {
+public class Student extends Person {
     private double gpa;
     private static final double STIPEND = 36660.00;
 

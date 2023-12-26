@@ -1,4 +1,4 @@
-class Person implements Payable, Comparable<Person> {
+public class Person implements Payable, Comparable<Person> {
     private static int idCounter = 1;
     private int id;
     private String name;
